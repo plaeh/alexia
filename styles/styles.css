@@ -6,6 +6,9 @@ body{
 div.body{
   background-image: url('/img/Cardstock-Offwhite.jpg');
   background-size: cover;
+  box-shadow: -4px -3px 5px 5px rgba(50, 50, 50, 0.56);
+  -webkit-box-shadow: -4px -3px 5px 5px rgba(50, 50, 50, 0.56);
+  -moz-box-shadow: -4px -3px 5px 5px rgba(50, 50, 50, 0.56);
   margin: 10%;
   padding: 2%;
   font-weight: 200;
