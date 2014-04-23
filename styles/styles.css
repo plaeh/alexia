@@ -3,14 +3,19 @@ body{
   font-weight: 200 !important;
 }
 
-#skills{
+div#skills{
   padding-left: 10px;
   padding-right: 1px;
 }
+
+h1,h2,h3,h4.skinny{
+  font-weight: 200 !important;
+}
+
 
 hr{
   margin-top: 20px;
   margin-bottom: 20px;
   border: 0;
-  border-top: 3px solid #eee;
+  border-top: 3px solid #020070;
 }
