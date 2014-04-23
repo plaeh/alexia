@@ -1,9 +1,9 @@
 body{
   padding: 4%;
   font-size: 15px;
-  font-weight: 300;
+  font-weight: 200 !important;
 }
 
 .skills{
-  font-size: 16px;
+  font-size: 17px;
 }
