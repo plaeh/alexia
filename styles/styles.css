@@ -12,11 +12,12 @@ div.body{
   margin: 5%;
   padding-left: 2%;
   padding-right: 2%;
+  padding-bottom: 1%;
   font-weight: 200;
 }
 
 div#skills{
-  padding-left: 10px;
+  padding-left: 5px;
   padding-right: 1px;
 }
 
