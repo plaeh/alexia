@@ -1,9 +1,10 @@
 body{
-  background: url("./img/rainbow-bg.jpg");
+  background-image: url('img/rainbow-bg.jpg');
 }
 div.body{
-  background: url("./img/Cardstock-Offwhite.jpg");
-  padding: 10%;
+  background-image: url('img/Cardstock-Offwhite.jpg');
+  margin: 10%;
+  padding: 2%;
   font-weight: 200;
 }
 
