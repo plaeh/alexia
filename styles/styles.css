@@ -16,6 +16,13 @@ div.body{
   font-weight: 200;
 }
 
+div#skills{
+  margin-right: 0px;
+  margin-left: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
 h3,h4.skinny{
   font-weight: 200;
 }
