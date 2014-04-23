@@ -1,8 +1,11 @@
 body{
   background-image: url('/img/rainbow-bg.jpg');
+  background-size: cover;
 }
+
 div.body{
   background-image: url('/img/Cardstock-Offwhite.jpg');
+  background-size: cover;
   margin: 10%;
   padding: 2%;
   font-weight: 200;
