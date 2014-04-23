@@ -9,8 +9,9 @@ div.body{
   box-shadow: -4px -3px 5px 5px rgba(50, 50, 50, 0.56);
   -webkit-box-shadow: -4px -3px 5px 5px rgba(50, 50, 50, 0.56);
   -moz-box-shadow: -4px -3px 5px 5px rgba(50, 50, 50, 0.56);
-  margin: 7%;
-  padding: 2%;
+  margin: 5%;
+  padding-left: 2%;
+  padding-right: 2%;
   font-weight: 200;
 }
 
@@ -24,6 +25,7 @@ h3,h4.skinny{
 }
 
 h1,h4.title{
+  padding-top: -10px;
   text-align: left;
   font-weight: 400;
 }
