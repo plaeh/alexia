@@ -1,5 +1,8 @@
 body{
-  padding: 4%;
+  background: "rainbow-bg.jpg";
+}
+div.body{
+  padding: 10%;
   font-weight: 200;
 }
 
@@ -11,15 +14,15 @@ div#skills{
 h3,h4.skinny{
   font-weight: 200;
 }
+
 h1,h4.title{
   text-align: left;
   font-weight: 400;
 }
 
-
 hr{
-  margin-top: 10px;
-  margin-bottom: 20px;
+  margin-top: 5px;
+  margin-bottom: 25px;
   border: 0;
   border-top: 3px solid #020070;
 }
