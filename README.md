@@ -1,7 +1,9 @@
 Alexia
 =======
- this is what you see
 
- <b>you can use html</b>
+ This is a read me file.
+  <u>What you see</u>
+
+ <b>is what you get</b>
 
  It is easy!
