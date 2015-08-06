@@ -3,28 +3,24 @@ html {
 }
 
 body {
+  margin: 10%;
+  font-size: 2em;
+  text-align: center;
   background-color: #141414;
   color: #eee;
-  height: 100%;
   -webkit-transform-style: preserve-3d;
      -moz-transform-style: preserve-3d;
       -ms-transform-style: preserve-3d;
        -o-transform-style: preserve-3d;
           transform-style: preserve-3d;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
-.container {
-  position: relative;
-  top: 50%;
-  -webkit-transform: translateY(-50%);
-     -moz-transform: translateY(-50%);
-      -ms-transform: translateY(-50%);
-       -o-transform: translateY(-50%);
-          transform: translateY(-50%);
-  font-size: 12em;
+.name{
+  font-size: 3em;
 }
 
-.quote{
-  text-align: left;
-  font-weight: 200;
+.image{
+  border: 1em solid #fff;
 }
