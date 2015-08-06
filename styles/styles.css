@@ -22,19 +22,18 @@ body {
 }
 
 .round {
-  -webkit-border-top-left-radius: 15px;
-  -webkit-border-top-right-radius: 15px;
-  -webkit-border-bottom-right-radius: 15px;
-  -webkit-border-bottom-left-radius: 15px;
+  -webkit-border-top-left-radius: 125px;
+  -webkit-border-top-right-radius: 125px;
+  -webkit-border-bottom-right-radius: 125px;
+  -webkit-border-bottom-left-radius: 125px;
 
-  -moz-border-radius-topleft: 15px;
-  -moz-border-radius-topright: 15px;
-  -moz-border-radius-bottomright: 15px;
-  -moz-border-radius-bottomleft: 15px;
+  -moz-border-radius-topleft: 125px;
+  -moz-border-radius-topright: 125px;
+  -moz-border-radius-bottomright: 125px;
+  -moz-border-radius-bottomleft: 125px;
 
-  border-top-left-radius: 15px;
-  border-top-right-radius: 15px;
-  border-bottom-right-radius: 15px;
-  border-bottom-left-radius: 15px;
-  border-image: 1px solid #fff;
+  border-top-left-radius: 125px;
+  border-top-right-radius: 125px;
+  border-bottom-right-radius: 125px;
+  border-bottom-left-radius: 125px;
 }
