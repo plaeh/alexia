@@ -6,7 +6,7 @@ body {
   margin: 10%;
   font-size: 2em;
   text-align: center;
-  background-color: #141414;
+  background-image: url("hole.jpg");
   color: #eee;
   -webkit-transform-style: preserve-3d;
      -moz-transform-style: preserve-3d;
