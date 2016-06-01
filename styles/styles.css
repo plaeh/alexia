@@ -6,8 +6,12 @@ body {
   margin: 10%;
   font-size: 2.3em;
   text-align: center;
+<<<<<<< HEAD
   background-image: url("/img/hole.jpg");
   background-size: cover;
+=======
+  background-color: #141414;
+>>>>>>> parent of 7914013... background
   color: #eee;
   -webkit-transform-style: preserve-3d;
      -moz-transform-style: preserve-3d;
