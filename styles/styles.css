@@ -4,7 +4,8 @@ html {
 
 body {
   margin: 10%;
-  font-size: 2em;
+  margin-top: 15%;
+  font-size: 3em;
   text-align: center;
   background-image: url("/img/hole.jpg");
   background-size: cover;
@@ -19,7 +20,7 @@ body {
 }
 
 .name{
-  font-size: 3em;
+  font-size: 4em;
 }
 
 .round {
