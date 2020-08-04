@@ -79,7 +79,7 @@
 	body {
 		height: 100%;
 		background-color: #ffffff;
-		background-image: url("../../images/bg.jpg");
+		background-image: url("/bg.jpg");
 		background-repeat: repeat,			no-repeat,			no-repeat;
 		background-size: 100px 100px, cover,				cover;
 		background-position: top left,		center center,		bottom center;
@@ -97,7 +97,7 @@
 			opacity: 0;
 			z-index: 1;
 			background-color: #ffffff;
-			background-image: url("../../images/bg.jpg");
+			background-image: url("/bg.jpg");
 			background-repeat: repeat,			no-repeat;
 			background-size: 100px 100px, cover;
 			background-position: top left,		center center;
