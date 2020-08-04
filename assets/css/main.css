@@ -146,6 +146,7 @@
 	}
 
 		a:before {
+			color: #ff7496;
 			-moz-transition: color 0.2s ease, text-shadow 0.2s ease;
 			-webkit-transition: color 0.2s ease, text-shadow 0.2s ease;
 			-ms-transition: color 0.2s ease, text-shadow 0.2s ease;
