@@ -1,0 +1,7 @@
+M104 12:39:59.4 −11:37:23 2000.0 blackholeboogie 8
+NGC5055 13:15:49.27385 +42:01:45.7261 2000.0 blackholeboogie 8.6
+M64 12:56:43.696 +21:40:57.57 2000.0 blackholeboogie 8.5
+NGC5194 13:29:52.7 +47:11:43 2000.0 blackholeboogie 8.4
+IC443 06:17:13 +22:31:05 2000.0 blackholeboogie 10.11
+M106 12:18:57.5 +47:18:14 2000.0 blackholeboogie 8.4
+NGC4725 12:50:26.56929 +25:30:02.7376 2000.0 blackholeboogie 12.4
